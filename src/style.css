@@ -1,0 +1,11 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.visibility-filter span {
+  margin: 0 5px
+}
+
+.active {
+  text-decoration: underline;
+}
